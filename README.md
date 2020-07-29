@@ -5,5 +5,5 @@ Built using Python.
 
 
 ```
------- NOTE ------
+NOTE 
 TOKEN = "XXXXXX" change value to your own discord bot token
