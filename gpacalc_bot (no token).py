@@ -1,5 +1,4 @@
 from discord.ext.commands import Bot
-import random
 
 BOT_PREFIX = ("?", "!")
 TOKEN = "XXXXXX" # REPLACE W/ YOUR BOT TOKEN
